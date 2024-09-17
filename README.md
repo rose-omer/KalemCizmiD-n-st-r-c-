@@ -1,4 +1,4 @@
-# Gelişmiş Eskiz Görüntü Üretici
+# Gelişmiş Çizim Görüntü Üretici
 
 Bu Python betiği, OpenCV kullanarak verilen bir resmin kenar tespiti ve görüntü harmanlama tekniklerini birleştirerek geliştirilmiş bir eskiz benzeri versiyonunu oluşturur.
 
