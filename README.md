@@ -15,9 +15,20 @@ Bu Python betiği, OpenCV kullanarak verilen bir resmin kenar tespiti ve görün
 - Python 3.x
 - OpenCV kütüphanesi
 
+## Ekran Görüntüsü
+
+
+
+https://github.com/user-attachments/assets/f805ba48-94d4-4719-825f-26b019f0bbb7
+
+
+
+
 ## Kurulum
 
 Aşağıdaki komutu kullanarak gerekli bağımlılığı yükleyebilirsiniz:
 
+
 ```bash
 pip install opencv-python
+
